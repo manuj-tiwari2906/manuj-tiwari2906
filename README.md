@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps and Cloud Computing**
 
-- 👯 I’m looking to collaborate on **MERN stack**
+- 👯 I’m looking to collaborate on **MERN stack projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
